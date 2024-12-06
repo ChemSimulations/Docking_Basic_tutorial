@@ -17,12 +17,12 @@
 13. Type the below command to get the center of mass coordnates ```set com[measure center $sel weight mass]```
 14. Save the x,y,z coordinates obtained in the notepad.
 15. Open the 8GCY_clean.pdb file the autodocktools.
-16. Creating **PDBQT** file from pdb
+16. **Creating PDBQT file from pdb**
 a) load just protein.pdb file in ADT, click ```EDIT--> ATOMS--> Assign AD4 type```; ```EDIT --> compute gastegier charges;``` ```EDIT-->Hydrogens--> Merge Non-polar```
 
 b) After running all the steps save the file as protein.pdbqt
 
-18. Preparing a GPF file
+18. **Preparing a GPF file**
 19. Open ADT tools and load the protein pdbqt file and select option grid --> Macromolecule--> Select protein;
 20. Go to Gridbox --> give x, y,z grid dimensions; File--> output griddimesnions to file; save current selection
 21. Grid -->output-->save GPF (give gpf file name protein.gpf)
