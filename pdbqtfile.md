@@ -25,5 +25,7 @@ b) After running all the steps save the file as protein.pdbqt
 
 18. **Preparing a GPF file**
     a. Open ADT tools and load the protein pdbqt file and select option grid --> Macromolecule--> Select protein;
+    
     b. Go to Gridbox --> give x, y,z grid dimensions; File--> output griddimesnions to file; save current selection
+    
     c. Grid -->output-->save GPF (give gpf file name protein.gpf)
