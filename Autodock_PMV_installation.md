@@ -1,9 +1,9 @@
 ### Installation of Autodock
 
 
-**Step-1:** Download the Autodock4
+**Step-1:** Download the Autodock Vina
 ```
-https://autodock.scripps.edu/download-autodock4/
+https://vina.scripps.edu/downloads/
 ```
 
 **Step-2:** To prepare the pdbqt file for docking and also to prepare grid files, we need autodock tools (ADT) which is also called as python molecule viewer (PMV). 
